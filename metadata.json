@@ -1,0 +1,6 @@
+{
+  "name": "House Price Prediction",
+  "description": "A professional-grade Machine Learning portfolio and interactive property analytics dashboard demonstrating house price prediction, regression models, and exploratory data analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
